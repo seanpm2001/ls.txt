@@ -1,0 +1,10 @@
+Paragraph1
+
+List part1
+List part2
+List patt3
+
+Paragraph2
+
+List2 part 1
+List2 part 2
